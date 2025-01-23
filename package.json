@@ -3,10 +3,7 @@
   "description": "The Period Tracker App",
   "version": "2.6.0",
   "type": "module",
-  "author": {
-    "name": "Irina Sorokina",
-    "url": "https://github.com/IraSoro"
-  },
+  
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
